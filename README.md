@@ -29,8 +29,3 @@ The codes of comparison algorithms are as follows.
 
 **Exact Method for multi-objective Seru production**
 
-### DateSet
-
-The data is shown as follows.
-
-https://github.com/Luckydragon96/DateSet
