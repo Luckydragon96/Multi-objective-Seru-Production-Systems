@@ -21,13 +21,13 @@ MOCCSNMS_NSGA2.sln
 ### Comparison Algorithm
 The codes of comparison algorithms are as follows.
 
-CCMO:https://github.com/Luckydragon96/CCMO
+**CCMO**
 
-MOCC-II:https://github.com/Luckydragon96/MOCC_II
+**MOCC-II**
 
-MOCC-SP:https://github.com/Luckydragon96/MOCC-SP
+**MOCC-SP**
 
-Exact Method for multi-objective Seru production:https://github.com/Luckydragon96/MOEM
+**Exact Method for multi-objective Seru production**
 
 ### DateSet
 
